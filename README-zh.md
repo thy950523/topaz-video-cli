@@ -345,3 +345,13 @@ MIT License
 - [Topaz Video AI](https://topazlabs.com/video-ai/)
 - [Claude Code 官方文档](https://docs.anthropic.com/en/docs/claude-code/overview)
 - [OpenClaw GitHub](https://github.com/open-ai/OpenClaw)
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=thy950523%2Ftopaz-video-cli&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=thy950523/topaz-video-cli&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=thy950523/topaz-video-cli&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=thy950523/topaz-video-cli&type=date&legend=top-left" />
+ </picture>
+</a>
